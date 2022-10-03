@@ -26,12 +26,12 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 
 #### Et pariatur velit do adipisicing culpa velit non cillum minim.
 
-```javascript
+```python
 s = "Halló markdown!"
 print(s)
 ```
 
-```arduino
+```ruby
 String s = "Halló markdown!"; 
 Serial.println(s);
 ```
