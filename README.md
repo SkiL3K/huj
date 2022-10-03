@@ -31,7 +31,7 @@ s = "Halló markdown!"
 print(s)
 ```
 
-```arduino
+```ruby
 String s = "Halló markdown!"; 
 Serial.println(s);
 ```
