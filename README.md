@@ -54,4 +54,4 @@ Serial.println(s);
 
 <a href="https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia
 " target="_blank"><img src="https://i.ytimg.com/vi/HUBNt18RFbo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJm-zOarzq98CcOTRDHwWzCPm5ow" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="1920" height="1080" border="10" /></a>
