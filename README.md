@@ -25,3 +25,8 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 |def fall() | void fall() |
 
 #### Et pariatur velit do adipisicing culpa velit non cillum minim.
+
+```ruby
+s = "Halló markdown!" print(s)
+String s = "Halló markdown!"; Serial.println(s);
+```
