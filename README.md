@@ -31,11 +31,7 @@ s = "Halló markdown!"
 print(s)
 ```
 
-```ruby
+```arduino
 String s = "Halló markdown!"; 
 Serial.println(s);
-```
-```python
-s = "Python syntax highlighting"
-print s
 ```
