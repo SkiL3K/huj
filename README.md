@@ -32,5 +32,6 @@ print(s)
 ```
 
 ```ruby
-String s = "Halló markdown!"; Serial.println(s);
+String s = "Halló markdown!"; 
+Serial.println(s);
 ```
