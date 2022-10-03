@@ -21,3 +21,4 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 |python | c/c++|
 |----   |------|
 |print  |Serial.print()|
+|while i < 10 |
