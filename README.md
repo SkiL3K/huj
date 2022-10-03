@@ -19,5 +19,5 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 #### Sunt nisi excepteur mollit nostrud ipsum consequat.
 
 |python | c/c++|
-|----  ------|
-|print | Serial.print()|
+|----   |------|
+|print  |Serial.print()|
